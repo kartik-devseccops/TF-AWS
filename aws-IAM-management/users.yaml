@@ -1,0 +1,7 @@
+users:
+  - username: Kartik
+    roles: [AmazonEC2ReadOnlyAccess, AWSCloudFormationReadOnlyAccess]
+  - username: Rohit
+    roles: AmazonS3ReadOnlyAccess
+  - username: Arun
+    roles: AWSCloudFormationReadOnlyAccess 
